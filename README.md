@@ -29,10 +29,10 @@ Here are some ideas to get you started:
  </a > 
      <!-- visual studio 2019 -->
     <a 
-    href="https://user-images.githubusercontent.com/12221569/57069689-638d6700-6ce6-11e9-8898-59186ef0513e.PNG" 
+    href="https://visualstudio.microsoft.com/" 
     target="_blank" rel="noreferrer"> 
     <img
-        src="https://en.m.wikipedia.org/wiki/File:Visual_Studio_Icon_2019.svg"
+        src="https://user-images.githubusercontent.com/12221569/57069689-638d6700-6ce6-11e9-8898-59186ef0513e.PNG"
         alt="visual studio 2019" width="40" height="40"
     /> 
  </a >  
