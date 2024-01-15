@@ -16,3 +16,51 @@ Here are some ideas to get you started:
 -->
 - 🔭 I'm currently working on Windows Kernel Development
 - 🌱 I’m currently learning C & C++
+- <b>Languages and Tools</b>
+<p align="left">
+      <!-- unreal engine -->
+ <a
+    href=" " 
+    target="_blank" rel="noreferrer"> 
+    <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unrealengine/unrealengine-original.svg"
+        alt="c" width="40" height="40"
+    /> 
+ </a > 
+<!-- vs code -->
+ <a 
+    href="https://code.visualstudio.com/" 
+    target="_blank" rel="noreferrer"> 
+    <img
+        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"
+        alt="VS code" width="40" height="40"
+    /> 
+ </a > 
+ <!-- c -->
+ <a
+    href="https://www.cprogramming.com/" 
+    target="_blank" rel="noreferrer"> 
+    <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
+        alt="c" width="40" height="40"
+    /> 
+ </a > 
+ <!-- cpp -->
+ <a 
+    href="https://isocpp.org/"
+    target="_blank" rel="noreferrer"> 
+    <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
+        alt="cplusplus" width="40" height="40"
+    /> 
+ </a >
+ <!-- git -->
+ <a 
+    href="https://git-scm.com/"
+    target="_blank" rel="noreferrer"> 
+    <img
+        src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git"
+        width="40" height="40"
+    /> 
+ </a > 
+  
