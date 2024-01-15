@@ -18,15 +18,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning C & C++
 - <b>Languages and Tools</b>
 <p align="left">
-      <!-- unreal engine -->
- <a
-    href=" " 
-    target="_blank" rel="noreferrer"> 
-    <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unrealengine/unrealengine-original.svg"
-        alt="c" width="40" height="40"
-    /> 
- </a > 
+     
 <!-- vs code -->
  <a 
     href="https://code.visualstudio.com/" 
