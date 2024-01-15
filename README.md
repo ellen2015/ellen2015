@@ -27,6 +27,15 @@ Here are some ideas to get you started:
         alt="VS code" width="40" height="40"
     /> 
  </a > 
+     <!-- visual studio 2019 -->
+    <a 
+    href="[https://code.visualstudio.com/](https://visualstudio.microsoft.com/)" 
+    target="_blank" rel="noreferrer"> 
+    <img
+        src="https://en.m.wikipedia.org/wiki/File:Visual_Studio_Icon_2019.svg"
+        alt="visual studio 2019" width="40" height="40"
+    /> 
+ </a >  
  <!-- c -->
  <a
     href="https://www.cprogramming.com/" 
