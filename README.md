@@ -18,8 +18,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning C & C++
 - <b>Languages and Tools</b>
 <p align="left">
-     
-<!-- vs code -->
+     <!-- vs code -->
  <a 
     href="https://code.visualstudio.com/" 
     target="_blank" rel="noreferrer"> 
